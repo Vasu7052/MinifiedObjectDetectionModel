@@ -17,5 +17,5 @@ This is an object detection model from TensorFlow but all the unnecessary files 
 <img src="https://github.com/Vasu7052/MinifiedObjectDetectionModel/blob/master/test_images/output3.jpg" alt="" width="600" height="300">
 
 ### Test Image 4
-<img src="https://github.com/Vasu7052/MinifiedObjectDetectionModel/blob/master/test_images/object4.jpg" alt="" width="600" height="300">
-<img src="https://github.com/Vasu7052/MinifiedObjectDetectionModel/blob/master/test_images/output4.jpg" alt="" width="600" height="300">
+<img src="https://github.com/Vasu7052/MinifiedObjectDetectionModel/blob/master/test_images/object4.png" alt="" width="600" height="300">
+<img src="https://github.com/Vasu7052/MinifiedObjectDetectionModel/blob/master/test_images/output4.png" alt="" width="600" height="300">
